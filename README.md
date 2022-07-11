@@ -14,7 +14,7 @@ These are the main features of the app (and the necessary firebase services):
 
 ## Development
 
-Unwind-time was the solo project of Siebe Kylstra, and was refactored by the following people:
+Siebe Kylstra was the initial developer of Unwind-time with the initial implementation completed independently. The following collaborators then refactored and added to the code base:
 
 - Mauricio Scain
 - Alex Price-Richards
@@ -22,7 +22,7 @@ Unwind-time was the solo project of Siebe Kylstra, and was refactored by the fol
 - Alicia Trujillo
 - Tekraj Gurung
 
-They transformed the project into typescript, made the CSS a lot nicer and added new features and tests (for which I am really grateful).
+They transformed the project into typescript, made the CSS a lot nicer and added new features and tests.
 
 # Getting Started with Unwind
 
