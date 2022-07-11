@@ -1,6 +1,6 @@
 # Unwind-time - Remove yourself from the keyboard
 
-Unwind-time let's you find people that need a break (an unwind) and want to do this with someone else.
+Unwind-time let's you find people that need a break (an unwind) and allows you to organise a meet up with them.
 
 You can check the app: https://unwind-time.web.app
 
