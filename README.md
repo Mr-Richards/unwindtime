@@ -22,7 +22,7 @@ Siebe Kylstra was the initial developer of Unwind-time with the initial implemen
 - Alicia Trujillo
 - Tekraj Gurung
 
-They transformed the project into typescript, made the CSS a lot nicer and added new features and tests.
+The collaboators transformed the project into typescript, CSS a lot nicer and added new features and tests.
 
 ## Tech Stack
 TypeScript · React.js · NoSQL · Redux.js · Firebase
